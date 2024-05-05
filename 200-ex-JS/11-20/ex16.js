@@ -1,4 +1,4 @@
-//* Imprimir o maior  d e3 valores
+//* Imprimir o maior  dos 3 valores
 var maiorValor = function (v1, v2, v3) {
     if (v1 > v2 && v1 > v3) {
         console.log("O maior valor \u00E9 ".concat(v1));
